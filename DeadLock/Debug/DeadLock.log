@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Vilagon\source\repos\DeadLock\DeadLock\Source.cpp(357,9): warning C4101: 'j': unreferenced local variable
+C:\Users\Vilagon\source\repos\DeadLock\DeadLock\Source.cpp(357,6): warning C4101: 'i': unreferenced local variable
+  DeadLock.vcxproj -> C:\Users\Vilagon\source\repos\DeadLock\Debug\DeadLock.exe
